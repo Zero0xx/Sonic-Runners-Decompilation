@@ -3,6 +3,7 @@
 
 A w.i.p. Decompilation of Sonic Runners 2015
 
+## THIS IS STILL A WORK IN PROGRESS DON'T EXPECT THIS TO WORK ANYTIME SOON
 
 ## Credits
 
