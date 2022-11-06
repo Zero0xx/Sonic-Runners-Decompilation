@@ -1,0 +1,64 @@
+using System;
+
+[Serializable]
+public class ObjBossEggmanMap1Parameter : SpawnableParameter
+{
+	public float m_playerDistance;
+	public float m_shotSpeed;
+	public float m_attackSpeed;
+	public int m_LV1_hp;
+	public int m_LV1_distance;
+	public int m_LV1_tblId;
+	public float m_LV1_boundParamMin;
+	public float m_LV1_boundParamMax;
+	public int m_LV1_boundMaxRand;
+	public int m_LV1_trapRand;
+	public float m_LV1_attackInterspaceMin;
+	public float m_LV1_attackInterspaceMax;
+	public int m_LV1_attackTrapCountMax;
+	public float m_LV1_ballSpeed;
+	public int m_LV2_hp;
+	public int m_LV2_distance;
+	public int m_LV2_tblId;
+	public float m_LV2_boundParamMin;
+	public float m_LV2_boundParamMax;
+	public int m_LV2_boundMaxRand;
+	public int m_LV2_trapRand;
+	public float m_LV2_attackInterspaceMin;
+	public float m_LV2_attackInterspaceMax;
+	public int m_LV2_attackTrapCountMax;
+	public float m_LV2_ballSpeed;
+	public int m_LV3_hp;
+	public int m_LV3_distance;
+	public int m_LV3_tblId;
+	public float m_LV3_boundParamMin;
+	public float m_LV3_boundParamMax;
+	public int m_LV3_boundMaxRand;
+	public int m_LV3_trapRand;
+	public float m_LV3_attackInterspaceMin;
+	public float m_LV3_attackInterspaceMax;
+	public int m_LV3_attackTrapCountMax;
+	public float m_LV3_ballSpeed;
+	public int m_LV4_hp;
+	public int m_LV4_distance;
+	public int m_LV4_tblId;
+	public float m_LV4_boundParamMin;
+	public float m_LV4_boundParamMax;
+	public int m_LV4_boundMaxRand;
+	public int m_LV4_trapRand;
+	public float m_LV4_attackInterspaceMin;
+	public float m_LV4_attackInterspaceMax;
+	public int m_LV4_attackTrapCountMax;
+	public float m_LV4_ballSpeed;
+	public int m_LV5_hp;
+	public int m_LV5_distance;
+	public int m_LV5_tblId;
+	public float m_LV5_boundParamMin;
+	public float m_LV5_boundParamMax;
+	public int m_LV5_boundMaxRand;
+	public int m_LV5_trapRand;
+	public float m_LV5_attackInterspaceMin;
+	public float m_LV5_attackInterspaceMax;
+	public int m_LV5_attackTrapCountMax;
+	public float m_LV5_ballSpeed;
+}
