@@ -5,6 +5,10 @@ A w.i.p. Decompilation of Sonic Runners 2015
 
 ## THIS IS STILL A WORK IN PROGRESS DON'T EXPECT THIS TO WORK ANYTIME SOON
 
+## What this project is.
+
+- This project is an attempt to decompile Sonic Runners and restore all the code to it's original state. Also so the game can be moddable!
+
 ## Credits
 
 - [UE4Pak](https://twitter.com/UE4Pak) - 50% of the Decomp
