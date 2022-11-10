@@ -1,5 +1,27 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!4 &-630341029
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1150922691}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1150922691}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
@@ -9,48 +31,20 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1672358336769987}
+  m_RootGameObject: {fileID: 1150922691}
   m_IsPrefabParent: 1
---- !u!1 &1672358336769987
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 4693316292428379}
-  - component: {fileID: 114137880378518343}
-  m_Layer: 0
-  m_Name: ui_font_sonic_num_64
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4693316292428379
-Transform:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1672358336769987}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114137880378518343
+  m_IsExploded: 1
+--- !u!114 &660646727
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1672358336769987}
+  m_GameObject: {fileID: 1150922691}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 081ff04f29549b9942ae17a81115796c, type: 3}
-  m_Name:
-  m_EditorClassIdentifier:
+  m_Name: 
+  m_EditorClassIdentifier: 
   mMat: {fileID: 2100000, guid: 8a6218feaf30e6b34dc54c6c590b3373, type: 2}
   mUVRect:
     serializedVersion: 2
@@ -74,7 +68,7 @@ MonoBehaviour:
       offsetY: -16
       advance: 32
       channel: 15
-      kerning:
+      kerning: 
     - index: 160
       x: 0
       y: 218
@@ -84,7 +78,7 @@ MonoBehaviour:
       offsetY: -16
       advance: 32
       channel: 15
-      kerning:
+      kerning: 
     - index: 44
       x: 195
       y: 71
@@ -94,7 +88,7 @@ MonoBehaviour:
       offsetY: 25
       advance: 32
       channel: 15
-      kerning:
+      kerning: 
     - index: 46
       x: 195
       y: 119
@@ -104,7 +98,7 @@ MonoBehaviour:
       offsetY: 25
       advance: 32
       channel: 15
-      kerning:
+      kerning: 
     - index: 48
       x: 0
       y: 0
@@ -114,7 +108,7 @@ MonoBehaviour:
       offsetY: -4
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 49
       x: 195
       y: 0
@@ -124,7 +118,7 @@ MonoBehaviour:
       offsetY: -3
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 50
       x: 0
       y: 146
@@ -134,7 +128,7 @@ MonoBehaviour:
       offsetY: -4
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 51
       x: 65
       y: 73
@@ -144,7 +138,7 @@ MonoBehaviour:
       offsetY: -3
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 52
       x: 64
       y: 146
@@ -154,7 +148,7 @@ MonoBehaviour:
       offsetY: -3
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 53
       x: 130
       y: 73
@@ -164,7 +158,7 @@ MonoBehaviour:
       offsetY: -3
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 54
       x: 65
       y: 0
@@ -174,7 +168,7 @@ MonoBehaviour:
       offsetY: -4
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 55
       x: 130
       y: 145
@@ -184,7 +178,7 @@ MonoBehaviour:
       offsetY: -3
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 56
       x: 130
       y: 0
@@ -194,7 +188,7 @@ MonoBehaviour:
       offsetY: -4
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 57
       x: 0
       y: 73
@@ -204,7 +198,7 @@ MonoBehaviour:
       offsetY: -4
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
     - index: 8194
       x: 33
       y: 218
@@ -214,7 +208,7 @@ MonoBehaviour:
       offsetY: -16
       advance: 32
       channel: 15
-      kerning:
+      kerning: 
     - index: 8195
       x: 195
       y: 162
@@ -224,7 +218,7 @@ MonoBehaviour:
       offsetY: 47
       advance: 64
       channel: 15
-      kerning:
+      kerning: 
   mSpacingX: -22
   mSpacingY: 0
   mAtlas: {fileID: 0}
@@ -235,3 +229,20 @@ MonoBehaviour:
   mDynamicFontSize: 16
   mDynamicFontStyle: 0
   mDynamicFontOffset: 0
+--- !u!1 &1150922691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 0: {fileID: -630341029}
+  - 0: {fileID: 660646727}
+  - 4: {fileID: 400000}
+  m_Layer: 0
+  m_Name: ui_font_sonic_num_64
+  m_TagString: 
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 3452816845
+  m_StaticEditorFlags: 0
+  m_IsActive: 0

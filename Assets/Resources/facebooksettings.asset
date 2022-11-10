@@ -9,8 +9,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 45b99a5ba761218f46824cf65ab7b304, type: 3}
-  m_Name: FacebookSettings
-  m_EditorClassIdentifier:
+  m_Name: facebooksettings
+  m_EditorClassIdentifier: 
   selectedAppIndex: 0
   appIds:
   - 203227836537595
@@ -23,4 +23,4 @@ MonoBehaviour:
   status: 1
   xfbml: 0
   frictionlessRequests: 1
-  iosURLSuffix:
+  iosURLSuffix: 
