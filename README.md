@@ -21,7 +21,7 @@ A w.i.p. Decompilation of Sonic Runners 2015
 
 - Update the code
 
-# 55% Done!
+## 55% Done!
 
 ## Credits
 
