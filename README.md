@@ -13,8 +13,6 @@ A w.i.p. Decompilation of Sonic Runners 2015
 
 - Fix the code
 
-- Update the unity version
-
 - Fix shaders
 
 - Fix UI
@@ -22,6 +20,8 @@ A w.i.p. Decompilation of Sonic Runners 2015
 - Remake The Shaders if the original ones don't work
 
 - Update the code
+
+# 55% Done!
 
 ## Credits
 
